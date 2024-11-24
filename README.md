@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/nishkarshpal/LCDaily/tree/master/0287-find-the-duplicate-number) |
 | [0906-walking-robot-simulation](https://github.com/nishkarshpal/LCDaily/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nishkarshpal/LCDaily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nishkarshpal/LCDaily/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -24,6 +25,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/nishkarshpal/LCDaily/tree/master/0287-find-the-duplicate-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nishkarshpal/LCDaily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
@@ -63,4 +65,12 @@
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/nishkarshpal/LCDaily/tree/master/1484-linked-list-in-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nishkarshpal/LCDaily/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nishkarshpal/LCDaily/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
