@@ -6,6 +6,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nishkarshpal/LCDaily/tree/master/0287-find-the-duplicate-number) |
 | [0906-walking-robot-simulation](https://github.com/nishkarshpal/LCDaily/tree/master/0906-walking-robot-simulation) |
+| [1917-maximum-average-pass-ratio](https://github.com/nishkarshpal/LCDaily/tree/master/1917-maximum-average-pass-ratio) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nishkarshpal/LCDaily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nishkarshpal/LCDaily/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/nishkarshpal/LCDaily/tree/master/2155-find-missing-observations) |
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nishkarshpal/LCDaily/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/nishkarshpal/LCDaily/tree/master/1917-maximum-average-pass-ratio) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/nishkarshpal/LCDaily/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
