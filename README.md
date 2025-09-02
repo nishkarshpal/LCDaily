@@ -10,6 +10,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nishkarshpal/LCDaily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nishkarshpal/LCDaily/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/nishkarshpal/LCDaily/tree/master/2155-find-missing-observations) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishkarshpal/LCDaily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nishkarshpal/LCDaily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [2155-find-missing-observations](https://github.com/nishkarshpal/LCDaily/tree/master/2155-find-missing-observations) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishkarshpal/LCDaily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Linked List
 |  |
 | ------- |
@@ -82,4 +84,16 @@
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/nishkarshpal/LCDaily/tree/master/1917-maximum-average-pass-ratio) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishkarshpal/LCDaily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Sorting
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishkarshpal/LCDaily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishkarshpal/LCDaily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
