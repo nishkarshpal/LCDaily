@@ -47,6 +47,7 @@
 | ------- |
 | [2155-find-missing-observations](https://github.com/nishkarshpal/LCDaily/tree/master/2155-find-missing-observations) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishkarshpal/LCDaily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/nishkarshpal/LCDaily/tree/master/3830-find-closest-person) |
 ## Linked List
 |  |
 | ------- |
