@@ -10,6 +10,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nishkarshpal/LCDaily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nishkarshpal/LCDaily/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/nishkarshpal/LCDaily/tree/master/2155-find-missing-observations) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nishkarshpal/LCDaily/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishkarshpal/LCDaily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nishkarshpal/LCDaily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [2155-find-missing-observations](https://github.com/nishkarshpal/LCDaily/tree/master/2155-find-missing-observations) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nishkarshpal/LCDaily/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishkarshpal/LCDaily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3830-find-closest-person](https://github.com/nishkarshpal/LCDaily/tree/master/3830-find-closest-person) |
 ## Linked List
@@ -88,13 +90,16 @@
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nishkarshpal/LCDaily/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishkarshpal/LCDaily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Sorting
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nishkarshpal/LCDaily/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishkarshpal/LCDaily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nishkarshpal/LCDaily/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishkarshpal/LCDaily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
