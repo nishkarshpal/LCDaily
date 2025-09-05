@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nishkarshpal/LCDaily/tree/master/0287-find-the-duplicate-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nishkarshpal/LCDaily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,11 @@
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nishkarshpal/LCDaily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nishkarshpal/LCDaily/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nishkarshpal/LCDaily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nishkarshpal/LCDaily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
